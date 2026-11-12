@@ -35,3 +35,14 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #333333;
 }
+.fifth_ptag{
+     font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+}
+.sixth_ptag{
+     font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+    list-style-type: circle;
+}
