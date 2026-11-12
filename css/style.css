@@ -13,3 +13,23 @@ h1 {
 h2 {
     color:rgb(94, 94, 94);
 }
+.first_p_tag {
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(107, 58, 23);
+}
+.second_ptag {
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+}
+.third_ptag {
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+}
+.fourth_ptag {
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+}
