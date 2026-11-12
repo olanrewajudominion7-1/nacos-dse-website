@@ -4,6 +4,7 @@ body {
     color: #333333;
     max-width: 900px;
     margin: 0 auto;
+    border: 1px solid;
     padding: 24px;
     line-height: 1.6;
 }
@@ -27,6 +28,7 @@ h2 {
     font-weight: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #333333;
+    list-style-type: circle;
 }
 .fourth_ptag {
     font-weight: normal;
