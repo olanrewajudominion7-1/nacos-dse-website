@@ -1,9 +1,9 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #e6e1e1b6;
-    color: #d5ba34;
-    max width: 900px;
-    margin: o auto;
+    color: #333333;
+    max-width: 900px;
+    margin: 0 auto;
     padding: 24px;
     line-height: 1.6;
 }
